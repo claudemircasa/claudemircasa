@@ -28,6 +28,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<br><br><br><br>
 <p align="center">
-  <a href="https://www.credly.com/badges/d0ae4d1a-13ac-494b-8264-19b800a32b21/public_url" target="_blank"><img width="200px" src="https://github.com/claudemircasa/claudemircasa/blob/main/machine-learning-with-python.png"></a>
+  <a href="https://www.credly.com/badges/d0ae4d1a-13ac-494b-8264-19b800a32b21/public_url" target="_blank"><img width="130px" src="https://github.com/claudemircasa/claudemircasa/blob/main/machine-learning-with-python.png"></a>
+  <a href="https://www.credly.com/badges/d0ae4d1a-13ac-494b-8264-19b800a32b21/public_url" target="_blank"><img width="130px" src="https://github.com/claudemircasa/claudemircasa/blob/main/deep-learning-essentials-with-keras.png"></a>
 </p>
