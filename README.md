@@ -31,5 +31,5 @@ Here are some ideas to get you started:
 <br><br><br><br>
 <p align="center">
   <a href="https://www.credly.com/badges/d0ae4d1a-13ac-494b-8264-19b800a32b21/public_url" target="_blank"><img width="130px" src="https://github.com/claudemircasa/claudemircasa/blob/main/machine-learning-with-python.png"></a>
-  <a href="https://www.credly.com/badges/d0ae4d1a-13ac-494b-8264-19b800a32b21/public_url" target="_blank"><img width="130px" src="https://github.com/claudemircasa/claudemircasa/blob/main/deep-learning-essentials-with-keras.png"></a>
+  <a href="https://www.credly.com/badges/77d77ebe-ab00-4d86-9684-2e4870fcb60d/public_url" target="_blank"><img width="130px" src="https://github.com/claudemircasa/claudemircasa/blob/main/deep-learning-essentials-with-keras.png"></a>
 </p>
