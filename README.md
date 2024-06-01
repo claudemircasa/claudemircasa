@@ -28,17 +28,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<br><br><br><br>
-<p align="center">
-  <a href="https://www.credly.com/badges/d0ae4d1a-13ac-494b-8264-19b800a32b21/public_url" target="_blank"><img width="130px" src="https://github.com/claudemircasa/claudemircasa/blob/main/machine-learning-with-python.png"></a>
-  <a href="https://www.credly.com/badges/77d77ebe-ab00-4d86-9684-2e4870fcb60d/public_url" target="_blank"><img width="130px" src="https://github.com/claudemircasa/claudemircasa/blob/main/deep-learning-essentials-with-keras.png"></a>
-  <a href="https://www.credly.com/badges/35dab72a-6b83-45bf-8297-a9ea17e7826f/public_url" target="_blank">
-  <img width="130px" src="https://github.com/claudemircasa/claudemircasa/blob/main/computer-vision-and-image-processing-essentials.1.png">
-  </a>
-  <a href="https://www.credly.com/badges/5109b87b-46dd-4a8f-82cc-b36594e3d78c/public_url" target="_blank">
-  <img width="130px" src="https://github.com/claudemircasa/claudemircasa/blob/main/deep-neural-networks-with-pytorch.png">
-  </a>
-  <a href="https://www.credly.com/badges/5109b87b-46dd-4a8f-82cc-b36594e3d78c/public_url" target="_blank">
-  <img width="130px" src="https://github.com/claudemircasa/claudemircasa/blob/main/deep-learning-with-tensorflow.png">
-  </a>
-</p>
+<br><br><br><br><p align=center><a href=https://www.credly.com/badges/d0ae4d1a-13ac-494b-8264-19b800a32b21/public_url target=_blank><img src=https://github.com/claudemircasa/claudemircasa/blob/main/machine-learning-with-python.png width=130px></a><a href=https://www.credly.com/badges/77d77ebe-ab00-4d86-9684-2e4870fcb60d/public_url target=_blank><img src=https://github.com/claudemircasa/claudemircasa/blob/main/deep-learning-essentials-with-keras.png width=130px></a><a href=https://www.credly.com/badges/35dab72a-6b83-45bf-8297-a9ea17e7826f/public_url target=_blank><img src=https://github.com/claudemircasa/claudemircasa/blob/main/computer-vision-and-image-processing-essentials.1.png width=130px></a><a href=https://www.credly.com/badges/5109b87b-46dd-4a8f-82cc-b36594e3d78c/public_url target=_blank><img src=https://github.com/claudemircasa/claudemircasa/blob/main/deep-neural-networks-with-pytorch.png width=130px></a><a href=https://www.credly.com/badges/5109b87b-46dd-4a8f-82cc-b36594e3d78c/public_url target=_blank><img src=https://github.com/claudemircasa/claudemircasa/blob/main/deep-learning-with-tensorflow.png width=130px></a>
