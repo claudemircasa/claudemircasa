@@ -38,4 +38,7 @@ Here are some ideas to get you started:
   <a href="https://www.credly.com/badges/5109b87b-46dd-4a8f-82cc-b36594e3d78c/public_url" target="_blank">
   <img width="130px" src="https://github.com/claudemircasa/claudemircasa/blob/main/deep-neural-networks-with-pytorch.png">
   </a>
+  <a href="https://www.credly.com/badges/5109b87b-46dd-4a8f-82cc-b36594e3d78c/public_url" target="_blank">
+  <img width="130px" src="https://github.com/claudemircasa/claudemircasa/blob/main/deep-learning-with-tensorflow.png">
+  </a>
 </p>
