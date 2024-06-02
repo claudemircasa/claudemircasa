@@ -29,6 +29,9 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
+  <a href="https://www.credly.com/badges/5109b87b-46dd-4a8f-82cc-b36594e3d78c/public_url" target="_blank">
+    <img src="https://claudemircasa.github.io/claudemircasa/ibm-ai-engineering-professional-certificate-v2.png" width="130px"/>
+  </a>
   <a href="https://www.credly.com/badges/d0ae4d1a-13ac-494b-8264-19b800a32b21/public_url" target="_blank">
     <img src="https://claudemircasa.github.io/claudemircasa/machine-learning-with-python.png" width="130px"/>
   </a>
